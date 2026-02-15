@@ -1,0 +1,12 @@
+utils\DataGenerator.class
+stepDefinitions\ForgotPasswordSteps.class
+stepDefinitions\LoginSteps.class
+pages\LoginPage.class
+pages\ForgotPasswordPage.class
+pages\SignupPage.class
+base\BaseTest.class
+config\ConfigReader.class
+stepDefinitions\SignupSteps.class
+utils\ScreenshotUtil.class
+hooks\Hooks.class
+runner\TestRunner.class
